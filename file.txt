@@ -4,6 +4,8 @@
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #profile-update-interval: 1
 
+vless://25d68490-fc83-4580-9696-a0fbf4f2728d@ru.ultima.foundation:22231?security=reality&encryption=none&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&headerType=none&fp=edge&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ru.ultima.foundation#%F0%9F%87%B7%F0%9F%87%BA+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F+%E2%80%94+YouTube+%F0%9F%8E%AC
+vless://25d68490-fc83-4580-9696-a0fbf4f2728d@lt1.ultima.foundation:22230?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%F0%9F%87%B1%F0%9F%87%B9+%D0%9B%D0%B8%D1%82%D0%B2%D0%B0+%E2%80%94+YouTube+%F0%9F%8E%AC
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@217.16.27.216:4249?security=reality&encryption=none&pbk=2z8C1eWOMSZEYNoERS8E6f8jiWvY38Z4iebbYh8mtXc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a20d3ed244c76426#🇦🇲 External VPN > Armenia
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@178.154.202.67:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#🇦🇲 External VPN > Armenia
 vless://4d94fa33-9462-48b4-b7de-8a2863560d19@217.16.27.216:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=2z8C1eWOMSZEYNoERS8E6f8jiWvY38Z4iebbYh8mtXc&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#🇦🇲 External VPN > Armenia
