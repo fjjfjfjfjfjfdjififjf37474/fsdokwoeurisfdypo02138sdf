@@ -1,6 +1,6 @@
-#profile-title: 🎄 External VPN 
-#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
-#support-url: https://t.me/Ietovsky
+#profile-title: [External] Agent VPN
+#announce: 🌟 Лучший в мире VPN
+#support-url: https://t.me/externalvpn_happ
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #profile-update-interval: 1
 
