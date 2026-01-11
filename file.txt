@@ -1,5 +1,5 @@
-#profile-title: 🎄 External VPN 
-#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
+#profile-title: 🎄 External VPN [TEST]
+#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! БУДЕТ РАБОТАТЬ ДО ВЕЧЕРА — 250 УСТРОЙСТВ
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #profile-update-interval: 1
