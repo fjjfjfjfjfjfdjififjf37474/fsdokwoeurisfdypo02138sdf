@@ -4,6 +4,7 @@
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #profile-update-interval: 1
 
+vless://feb92c60-07be-4b73-a585-f3879cdb5dec@ru01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=8453e5fd9af927#YouTube — Россия
 vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@178.154.240.168:8090?encryption=none&fp=chrome&path=%2F&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=6b2f4e6ac9b1d2f0&sni=taxi.yandex.ru&type=xhttp#🇦🇲 External VPN > Армения
 vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@178.154.202.67:4249?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Nwyu95mrEJ0vDgB2RAbkkpMyulXzeq2mLLYpsTJYsmg&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com&type=tcp#🇦🇲 External VPN > Армения
 vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@178.154.240.168:8443?encryption=none&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&serviceName=grpc&sid=6b2f4e6ac9b1d2f0&sni=taxi.yandex.ru&type=grpc#🇦🇲 External VPN > Армения
