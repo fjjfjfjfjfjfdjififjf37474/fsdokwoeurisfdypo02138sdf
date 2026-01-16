@@ -1,4 +1,8 @@
-
+#profile-title: 🎄 External VPN 
+#announce: 🚀 Тестовый ключ для тестирования качества наших услуг. На 2 дня. Включите резолвинг сервера в настройках впн - на 78.88.8.8
+#support-url: https://t.me/externalvpn_happ
+#subscription-userinfo: upload=0; download=2153701362; total=0
+#profile-update-interval: 1
 
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@51.250.48.224:8090?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=6b2f4e6ac9b1d2f0&sni=web.max.ru&type=xhttp#🇷🇺 External VPN > Россия
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@51.250.105.198:7443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=ads.x5.ru#🇷🇺 External VPN > Россия
