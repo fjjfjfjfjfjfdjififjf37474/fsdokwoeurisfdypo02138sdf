@@ -2,6 +2,7 @@
 #announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701362; total=0
+@hode-settings: 1
 #profile-update-interval: 1
 
 vless://07095332-84b5-4d94-a259-9a0d13ba108f@51.250.16.78:443?encryption=none&flow=xtls-rprx-vision&pbk=MS65bqOY_SgSw67G9gj5a_5v6GzaVRlC1EDSdYEy1lg&security=reality&sid=f7c0a11edbdb07f2&sni=www.yandex.ru&type=tcp#🇷🇺 External VPN > Россия
