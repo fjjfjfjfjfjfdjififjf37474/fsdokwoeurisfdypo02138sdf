@@ -1,1 +1,8 @@
+#profile-title: 🎄 External VPN 
+#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
+#support-url: https://t.me/Ietovsky
+#subscription-userinfo: upload=0; download=2153701362; total=0
+@hode-settings: 1
+#profile-update-interval: 1
 #new-url: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+
