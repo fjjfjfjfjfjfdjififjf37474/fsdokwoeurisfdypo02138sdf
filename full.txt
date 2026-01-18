@@ -2,7 +2,7 @@
 #announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
 #support-url: https://t.me/Ietovsky
 #subscription-userinfo: upload=0; download=2153701370; total=214748364800
-#profile-update-interval: 6
+#profile-update-interval: 1
 
 # Для Hiddify/Happ/v2RayTun Vless используйте этот URL как источник подписки
 # Приложение автоматически загрузит все серверы из файла
