@@ -1,8 +1,57 @@
 #profile-title: 🎄 External VPN 
 #announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
 #support-url: https://t.me/Ietovsky
-#subscription-userinfo: upload=0; download=2153701362; total=0
-@hode-settings: 1
-#profile-update-interval: 1
-#new-url https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+#subscription-userinfo: upload=0; download=2153701370; total=214748364800
+#profile-update-interval: 6
 
+# Для Hiddify/Happ/v2RayTun Vless используйте этот URL как источник подписки
+# Приложение автоматически загрузит все серверы из файла
+
+# Основные настройки профиля
+# ============================
+
+# Тип конфигурации (V2Ray/Vless)
+config-type: vless
+
+# URL для автоматического обновления серверов
+# Это ключевая строка - она указывает приложению откуда брать серверы
+subscription-url: https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+
+# Настройки подключения
+proxy-mode: rule
+tls-allow-insecure: false
+udp-enabled: true
+
+# Настройки DNS
+dns:
+  server:
+    - 8.8.8.8
+    - 1.1.1.1
+  strategy: ipv4_only
+
+# Правила маршрутизации
+# ============================
+
+# Правило для загрузки прокси из внешнего файла
+# Это зарезервированное правило для загрузки внешних конфигураций
+# PROXY, EXTERNAL, https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+
+# Или если нужно сделать ссылку на внешний файл с серверами:
+[Proxy]
+# Включить все серверы из указанного URL
+include = https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-checked.txt
+
+# Базовые правила для российских и международных сайтов
+[Rule]
+# Прямой доступ к российским сайтам
+DOMAIN-SUFFIX,ru,DIRECT
+DOMAIN-SUFFIX,рф,DIRECT
+DOMAIN-SUFFIX,su,DIRECT
+IP-CIDR,10.0.0.0/8,DIRECT
+IP-CIDR,172.16.0.0/12,DIRECT
+IP-CIDR,192.168.0.0/16,DIRECT
+
+# Все остальное через прокси
+FINAL,PROXY
+
+# Конец конфигурации
