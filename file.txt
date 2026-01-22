@@ -1,5 +1,10 @@
-Date/Time: 2026-01-22 / 18:20 (Moscow)
-For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+#profile-title: 🎄 External VPN 
+#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
+#support-url: https://t.me/Ietovsky
+#subscription-userinfo: upload=0; download=2153701362; total=0
+#hide-settings: 1
+#profile-update-interval: 1
+
 vless://00c49863-6d15-4289-9229-841ee5f7868c@109.120.188.18:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
 vless://00c49863-6d15-4289-9229-841ee5f7868c@109.120.188.30:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
 vless://00c49863-6d15-4289-9229-841ee5f7868c@109.120.188.227:1488?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%5B%2ACIDR%5D%20VK
