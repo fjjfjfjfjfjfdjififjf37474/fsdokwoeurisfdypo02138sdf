@@ -1,5 +1,10 @@
-Date/Time: 2026-01-24 / 05:24 (Moscow)
-For more info and VPN-configs - visit: www.github.com/igareck/vpn-configs-for-russia
+#profile-title: 🎄 External VPN 
+#announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
+#support-url: https://t.me/Ietovsky
+#subscription-userinfo: upload=0; download=2153701362; total=0
+#hide-settings: 1
+#profile-update-interval: 1
+
 vless://71031aa1-067e-425e-97f5-37875f838a10@51.250.41.237:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=Oy9IM1uV6W9P3Pm4EIaW1LPqOP0XaT0jSCi4qITSYAI&sid=70cae732#%F0%9F%87%A8%F0%9F%87%B4%20Colombia%20%5B%2ACIDR%5D%20YA
 vless://fa-8031206539-1766312475386029@84.201.167.199:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=random&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&sni=ads.x5.ru&sid=d1d42381ba35&spx=%2F#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20YA
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@109.120.190.54:443?type=tcp&security=reality&sni=sso.passport.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D%20VK
