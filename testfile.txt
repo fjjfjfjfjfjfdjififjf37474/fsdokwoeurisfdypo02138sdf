@@ -1,7 +1,7 @@
 #profile-title: 🎄 External VPN 
-#announce: Ключ истек. Для того, чтобы купить полный доступ нужно зайти по кнопке справа (Telegram)
+#announce: 🆒 Нажмите на значок Telegram чтобы попасть к нам в канал! Установите резолвинг сервера на 78.88.8.8 для лучшего взаимодействия!
 #support-url: https://t.me/externalvpn_happ
-#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1768672800
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1769506598
 #profile-update-interval: 1
 #hide-settings: 1
 
