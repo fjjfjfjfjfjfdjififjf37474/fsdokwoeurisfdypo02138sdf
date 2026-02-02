@@ -1,7 +1,7 @@
 #profile-title: 🎄 External VPN 
 #announce: 🚀 Дарим быстрый и долговечный интернет по всему РФ! От @advludoton / @Ietovsky
 #support-url: https://t.me/Ietovsky
-#subscription-userinfo: upload=0; download=2153701362; total=0
+#subscription-userinfo: upload=0; download=2153701362; total=0; expire=1770109560
 #hide-settings: 1
 #profile-update-interval: 1
 
