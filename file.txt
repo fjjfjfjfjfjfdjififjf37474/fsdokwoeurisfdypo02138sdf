@@ -4,6 +4,7 @@
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #hide-settings: 1
 #profile-update-interval: 1
+#ping-type: tcp
 
 vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&security=reality&sid=5f22&sni=yandex.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%3E%20VK
 vless://da11d62c-1996-4d2c-b2e6-e89c7a1265e9@95.163.209.21:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=e5f67890&sni=api-maps.yandex.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%3E%20VK
