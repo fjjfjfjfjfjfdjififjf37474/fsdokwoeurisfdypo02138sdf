@@ -4,6 +4,7 @@
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #hide-settings: 1
 #profile-update-interval: 1
+#ping-type: tcp
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=cad317b20db4aad2&sni=by.cdn.titun.su#%F0%9F%87%A7%F0%9F%87%BE%20Belarus%2C%20Minsk%20%3E%20
 vless://0afabff5-3f64-4e9f-ade7-57a3f2b62f36@2.59.218.5:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=v5phvruLtbRahHL0xJtl77s4sXHiuSHzUTPq2znyCF4&sid=ac56c28c09&sni=bg.fasssst.ru#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%3E%20
