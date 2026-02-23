@@ -1,4 +1,4 @@
-undefined
+[object Object]
 
 vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@144.31.178.168:8443?type=xhttp&security=reality&fp=&pbk=8tmYXQZuVTmrJNLUAL4KKPgCVNd_UdHaxAoC2L3AL2U&sid=&sni=01.img.avito.st&path=/api/v2/updates&host=&mode=auto&spx=/#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%3E%20
 vless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@144.31.178.168:8443?type=xhttp&security=reality&path=/api/v2/updates&sni=01.img.avito.st&pbk=8tmYXQZuVTmrJNLUAL4KKPgCVNd_UdHaxAoC2L3AL2U#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%20%3E%20
